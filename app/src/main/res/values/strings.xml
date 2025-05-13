@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TSDMHP2E2Fggv</string>
+    <string name="p1t1">Obejetos parcerables</string>
+    <string name="p1lblnombre">Nombre</string>
+    <string name="p1hint1">Ingresa tu nombre aqui</string>
+    <string name="p1lbledad">Edad</string>
+    <string name="p1hint2">Ingresa tu edad aqui</string>
+    <string name="p1lblcorreo">Correo</string>
+    <string name="p1hint3">Ingresa tu correo aqui</string>
+    <string name="p1b1enviar">Enviar objeto </string>
+
+    <!-- variables de la segunnda pantalla -->
+    <string name="p2t1">Recibimos Parcerables</string>
+
+</resources>
